@@ -27,13 +27,13 @@ include($fichero);
         <nav>
         <ul>
             <li>
-                <a href="02-cookie_idioma_cambiar.php?idioma=ca">CA</a>
+                <a href="02-cookie_idioma_fic_cambiar.php?idioma=ca">CA</a>
             </li>
             <li>
-                <a href="02-cookie_idioma_cambiar.php?idioma=es">ES</a>
+                <a href="02-cookie_idioma_fic_cambiar.php?idioma=es">ES</a>
             </li>
             <li>
-                <a href="02-cookie_idioma_cambiar.php?idioma=eu">EU</a>
+                <a href="02-cookie_idioma_fic_cambiar.php?idioma=eu">EU</a>
             </li>
         </ul>
     </nav>
